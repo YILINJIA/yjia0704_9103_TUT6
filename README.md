@@ -1,4 +1,4 @@
-# yjia0704_9103_TUT6
+#Quiz8
 
 ## part1: Imaging Technique Inspiration
 A circle is created by spirals surrounding the world, in the style of digital fantasy landscapes, dark gold and green, luminous spheres, psychedelic realism, infinity nets, precisionism influence, surreal 3d landscapes.The color gradient from the inner circle to the outer circle has a clear hierarchy. The small circle is used as an arc to generate a large circle, making the artwork more full. From here on, I can add these elements to make my artwork more mysterious and abstract, giving people a sense of shock, surrealism, and mystery, and taking the artwork to the next level. 
