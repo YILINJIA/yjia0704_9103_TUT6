@@ -10,5 +10,5 @@ This JavaScript code generates a captivating visual pattern using ellipses.
  with each ellipse having a position determined by polar coordinates (r * cos(a) and r * sin(a)). The a angle varies based on the angle growth factor, while r depends on the square root of n. This combination creates a spiraling effect.
 The ellipses are filled with colors that change based on the radius (r) of each ellipse. The colorMode function is used to control the color scheme. resulting in a visually appealing gradient effect.
  The pattern is dynamic and continuously evolving due to the changing angle growth factor.
-![exampleCode](exampleCode.jpg)
+![exampleCode](exampleCode.jpg) 
 [Code Link](https://editor.p5js.org/NC_Productions/sketches/Ui4ns_1c-)
